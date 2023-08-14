@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srdoppelganger&label=Profile%20views&color=0e75b6&style=flat" alt="srdoppelganger" /> </p>
 
-- 🌱 I’m currently learning **Java/C#/Unity**
+- 🌱 I’m currently learning **Javascript/C#/Unity**
 
 - 📫 How to reach me **minecraftelegal124@gmail.com**
 
