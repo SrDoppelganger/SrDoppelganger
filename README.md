@@ -1,17 +1,24 @@
 
-### Hi, i'm Arthur! 👋
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrDoppelganger&show_icons=true&theme=tokyonight)
+### Hi, i'm SrDoppelganger! but you can call me Doppel ₍ ᐢ.ˬ.ᐢ₎
+
+<img src="https://media.tenor.com/YRH0hC-HG3gAAAAM/usagi.gif" width="240" height="240" />
 
 ### About me:
-I work as a generalist intern and make games as a hobby. Always learning something new, my journey is never ending
+
+I work as a generalist intern and make games as a hobby. Always learning something new! I hope to get into cybersecurity someday 
+
+### (WIP) My Links
+[my website should go here]
+[my itch profile too...]
 
 ### GOALS:
 
-- [ ] Finish a computer vision project
+- [ ] Finish my CS degree
 - [ ] Publish a game on itch.io
 - [ ] Learn the basics of Graphics Programming
-
+- [ ] Learn more about Computer Networks
+- [ ] Get into Cybersecurity
 
 ### OS:
 
@@ -24,12 +31,18 @@ I work as a generalist intern and make games as a hobby. Always learning somethi
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)]()
-[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)]()
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+
 
 ### Languages/Tools i'm learning:
 
-[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)]()
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]()
+[![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+
+### Interested in:
+
+[![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)]()
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)]()
+[![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)]()
 
 ### Languages and tools i know/Used before:
 
@@ -39,15 +52,4 @@ I work as a generalist intern and make games as a hobby. Always learning somethi
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)]()
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)]()
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]()
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]()
-
-### Interested in:
-
-[![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)]()
-
-
-
-
-
