@@ -8,7 +8,7 @@
 
 I work as a generalist intern and make games as a hobby. Always learning something new! I hope to get into cybersecurity someday 
 
-### (WIP) My Links
+### (WIP) My Links:
 [my website should go here]
 [my itch profile too...]
 
