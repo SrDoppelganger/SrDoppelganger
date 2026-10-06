@@ -10,7 +10,7 @@
 I work as a generalist intern and make games as a hobby. Always learning something new! I hope to get into cybersecurity someday 
 
 ### ![bunny](https://64.media.tumblr.com/45aa300e8e88980c063dcf9b55c43829/8ff838b79cc026e7-3e/s75x75_c1/e7d71ba488e2b5d45c55d403a513e893b3d10719.gifv) (WIP) My Links:
-:globe_with_meridians: ![Doppelverse](https://srdoppelganger.github.io/placeholder-website/)<br>
+:globe_with_meridians: ![https://srdoppelganger.github.io/placeholder-website/](https://srdoppelganger.github.io/placeholder-website/)<br>
 [my itch profile should go here]
 
 
